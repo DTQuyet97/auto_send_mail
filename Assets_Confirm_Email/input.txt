@@ -1,0 +1,4 @@
+CC = "phucnd4@fsoft.com.vn"
+Path_Device = "D:\Python\SendMail\Customer_Device_info.xlsx"
+Project = "PS5SDK17"
+Git_Dir = "E:\Local_PS5"
